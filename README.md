@@ -61,7 +61,7 @@ MultiGen AI is a comprehensive AI-powered platform that combines multiple intell
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AadilShahDev/Multi-Model-AI-chatBot.git
+git clone https://github.com/AadilShahDev/MultiGen-AI.git
 cd Multi-Model-AI-chatBot/AI_Model
 ```
 
