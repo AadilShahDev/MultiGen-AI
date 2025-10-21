@@ -40,12 +40,6 @@ MultiGen AI is a comprehensive AI-powered platform that combines multiple intell
 - Compare different AI capabilities
 - Seamless model switching
 
-### 🔗 **OpenRouter Integration**
-- Unified API access to multiple AI providers
-- Cost-effective model selection
-- Support for GPT, Claude, Llama, and more
-
----
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +61,7 @@ MultiGen AI is a comprehensive AI-powered platform that combines multiple intell
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/waseemmazari110/Multi-Model-AI-chatBot.git
+git clone https://github.com/AadilShahDev/Multi-Model-AI-chatBot.git
 cd Multi-Model-AI-chatBot/AI_Model
 ```
 
@@ -125,8 +119,8 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Waseem Mazari**
-- GitHub: [@waseemmazari110](https://github.com/waseemmazari110)
+**Aadil Shah**
+- GitHub: (https://github.com/AadilShahDev)
 
 ---
 
